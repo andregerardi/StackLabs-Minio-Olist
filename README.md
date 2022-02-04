@@ -2,16 +2,22 @@
 **O objetivo desse repositorio é organizar os arquivos produzidos no desenvolvimento do projeto do [StackLabs](https://github.com/HenriqueSantos0/StackLabs-Minio-Olist/blob/main/Projeto%20-%20Stack%20Labs.pdf) da squad Minio.**
 
 ## Descrição
-- O nosso trabalho tem por Titulo **Previsão de vendas em regiões perifericas brasileiras**.
-- O projeto proposto enquadra-se no tópico Análise de dados e Entendimento de Negócio. 
-- O projeto utiliza as fontes de dados da companhia para a produção de relatório, que concentra-se na análise, exploração de dados e  desenvolvimento de modelo preditivo visando a identificação de oportunidades.
+- A equipe desenvolveu, a partir de técnicas de Data Science, desenvolvolveu modelos de **Previsão de vendas para as regiões Norte, Nordeste e Centro-Oeste do Brasil**.
+- O projeto proposto enquadra-se no tópico **Análise de dados e Entendimento de Negócio**. 
+- As bases de dados da companhia foram utilizados para a produção de um relatório, que concentra-se na exploração e análise de dados e no desenvolvimento de modelo preditivo de Manchine Learning, visando a identificação de oportunidades.
 
 ## Problema
-- Tentamos com esse projeto responder a seguinte pergunta Que fatores permitem a manutenção do faturamento em acensão?
-- Para isso, trouxemos algumas informações sobre a base.
+- Tentamos com esse projeto responder a seguinte pergunta: Que fatores permitem a manutenção do faturamento da companhia em acensão?
+- Para isso, após análise exploratória dos dados trouxemos algumas informações para justificar o nosso estudo de caso.
 1. Considerado o recorte temporal entre 2017 e 2018, as vendas anuais da empresa cresceram 18%, e o número de vendedores, 33%;
-2. Os dados disponibilizados pela companhia demostram, no mesmo período, que mais de 70% dos pedidos foram entregues no eixo Sul-Sudeste, uma vez que essas regiões possuem densa rede de transporte e valor de frete menor se comparado com regiões periféricas do país;
-3. A partir destes dados, verifica-se, ainda, que a distribuição de vendedores e vendas nos estados é irregular: estado de SP concentra, por exemplo, 60% dos vendedores e 40% do faturamento da companhia.
+2. Os dados disponibilizados pela companhia demostram que mais de 70% dos pedidos foram entregues no eixo Sul-Sudeste. A duas regiões possuie densa rede de transporte, o que  explica o valor de frete menor, se comparado com regiões mais distantes do país;
+3. A partir destes dados, verifica-se, portanto, que a distribuição de vendedores e vendas nos estados é irregular: o estado de SP concentra, por exemplo, 60% dos vendedores e 40% do faturamento da companhia.
+
+## Hipótese de trabalho:
+Partindo de nossas análises e debates, para responder a questão, de que *fatores permitem a manutenção do faturamento da companhia em acensão?* formulamos a seguinte hipótese:
+
+- O aumento do número de vendedores nos estados das regiões Norte, Nordeste e Centro-Oeste induziria a uma redução 1) de tempo de entrega de encomendas e 2) valor do frete, aumentado o volume de vendas nessas regiões;![image](https://user-images.githubusercontent.com/48441841/152531292-7ba34508-4876-4b48-9e38-e7de472e835a.png)
+
 
 ![image](https://user-images.githubusercontent.com/89212899/151978158-16452e70-82c5-43ce-b232-b89f523f527b.png)
 
