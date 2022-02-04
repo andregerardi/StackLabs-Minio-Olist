@@ -16,8 +16,10 @@
 ## Hipótese de trabalho:
 Partindo de nossas análises e debates, para responder a questão, de que *fatores permitem a manutenção do faturamento da companhia em acensão?* formulamos a seguinte hipótese:
 
-- O aumento do número de vendedores nos estados das regiões Norte, Nordeste e Centro-Oeste induziria a uma redução 1) de tempo de entrega de encomendas e 2) valor do frete, aumentado o volume de vendas nessas regiões;![image](https://user-images.githubusercontent.com/48441841/152531292-7ba34508-4876-4b48-9e38-e7de472e835a.png)
+- O aumento do número de vendedores nos estados das regiões Norte, Nordeste e Centro-Oeste induziria a uma redução 1) de tempo de entrega de encomendas e 2) valor do frete, aumentado o volume de vendas nessas regiões;
 
+
+![image](https://user-images.githubusercontent.com/48441841/152531292-7ba34508-4876-4b48-9e38-e7de472e835a.png)
 
 ![image](https://user-images.githubusercontent.com/89212899/151978158-16452e70-82c5-43ce-b232-b89f523f527b.png)
 
